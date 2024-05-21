@@ -1,6 +1,6 @@
 <h1>Joaquim Pedro Ferreira</h1>
 <p align="left">
-<a href="https://linkedin.com/in/joaquim pedro" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="joaquim pedro" /></a>
+<a href="https://www.linkedin.com/in/joaquim-pedro-229b54159/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="joaquim pedro" /></a>
 <a href="mailto:joaquimjpfc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="joaquimpe_" /></a>
 </p>
 </p>
