@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Joaquim Pedro Ferreira</h1>
+<p align="left">
+<a href="https://linkedin.com/in/joaquim pedro" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="joaquim pedro" /></a>
+<a href="mailto:joaquimjpfc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="joaquimpe_" /></a>
+</p>
+</p>
+<br>
+<h3>Hi there. Welcome to my profile!</h3>
 
-<!--
-**joaquimpferreira/joaquimpferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :raising_hand: I'm a developer fullstack.
+- :pencil: I love learning about technology!
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaquimpferreira)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimpferreira)](https://github.com/anuraghazra/github-readme-stats)
