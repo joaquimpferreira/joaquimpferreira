@@ -7,7 +7,7 @@
 <br>
 <h3>Hi there. Welcome to my profile!</h3>
 
-- :raising_hand: I'm a developer fullstack.
+- :raising_hand: I'm a developer Front-end.
 - :pencil: I love learning about technology!
 
 <br>
